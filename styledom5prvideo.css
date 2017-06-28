@@ -1,0 +1,48 @@
+body {
+	font-family: verdana, tahoma, sans-serif;
+}
+
+div.cover-img {
+	width: 55%;
+	height: 380px;
+	margin: 150px auto;
+	background-image: url(http://swiftsrbija.rs/wp-content/uploads/2016/03/20160302_180136.jpg);
+	background-color: #cccccc;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+div.sadrzaj-posta {
+	width: 42%;
+	height: auto;
+	margin: -200px auto;
+	padding: 40px 40px 75px;
+	border: 2px solid lightgrey;
+	background-color: white;
+}
+
+h1 {
+	margin: 0px;
+	font-size: 22px;
+}
+
+p {
+	font-size: 12px;
+	margin: 0px;
+	color: grey;
+}
+
+a.link-za-kom {
+	float: left;
+	font-size: 12px;
+	color: orange;
+	text-decoration: none;
+}
+
+img.avatar {
+	float: right;
+	max-width: 30px;
+	height: auto;
+	border-radius: 50%;
+}
+
