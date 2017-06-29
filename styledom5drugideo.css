@@ -1,0 +1,62 @@
+div.sadrzaj {
+	width: 75%;
+	height: 300px;
+	background-color: lightgrey;
+	margin: 10%;
+}
+
+article {
+	width: 33%;
+	display: inline-block;
+	padding: 10px;
+}
+
+div.cover-img1 {
+	background-image: url("https://previews.123rf.com/images/yuliadavidovich/yuliadavidovich1305/yuliadavidovich130500054/19579497-salad-of-fresh-fruit-and-berries-in-a-white-bowl-berries-and-a-cup-of-tea-in-the-background-horizont-Stock-Photo.jpg");
+	background-size: cover;
+	height: 150px;
+}
+
+#prvaicon {
+	align-content: center;
+}
+
+div.artic {
+	height: 130px;
+	background-color: white;
+}
+
+div.cover-img2 {
+	background-image: url("http://st1.thehealthsite.com/wp-content/uploads/2016/09/Navasana.jpg");
+	background-size: cover;
+	height: 150px;
+}
+
+div.cover-img3 {
+	background-image: url("https://previews.123rf.com/images/ragsac/ragsac0801/ragsac080100007/2368057-diary-page-in-a-personal-organizer-Stock-Photo.jpg");
+	background-size: cover;
+	height: 150px;
+}
+
+i {
+	position: relative;
+	top: 20px;
+	left: 35px;
+	font-size: 30px;
+	color: lime;
+}
+
+p {
+	font-size: 20px;
+	text-align: center;
+}
+
+div.krug {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: relative;
+	top: -20px;
+	left: 35%;
+	background-color: white;
+}
